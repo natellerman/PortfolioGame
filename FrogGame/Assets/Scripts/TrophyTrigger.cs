@@ -10,7 +10,6 @@ public class TrophyTrigger : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            // Add points logic if needed
             SceneManager.LoadScene(nextSceneName);
             Destroy(gameObject);
         }
