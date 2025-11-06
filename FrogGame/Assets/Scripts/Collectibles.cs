@@ -8,12 +8,8 @@ public class Collectible : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            Collect(other.gameObject);
+            CollectiblesManager.Instance.AddCollectible();
+            Destroy(gameObject);
         }
-    }
-
-    private void Collect(GameObject player)
-    {
-        Destroy(gameObject);
     }
 }
