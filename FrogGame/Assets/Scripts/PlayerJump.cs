@@ -1,6 +1,5 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class PlayerJump : MonoBehaviour
 {
@@ -15,7 +14,8 @@ public class PlayerJump : MonoBehaviour
     }
     void Update()
     {
-        if (Input.GetButtonDown("Jump") && GetIsGrounded()){
+        if (Keyboard.current.spaceKey.wasPressedThisFrame && GetIsGrounded())
+        {
             Jump();
         }
     }
