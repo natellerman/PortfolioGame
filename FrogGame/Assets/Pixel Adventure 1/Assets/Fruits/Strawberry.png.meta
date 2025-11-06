@@ -176,11 +176,27 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 8, y: -3}
+        - {x: 8, y: 2}
+        - {x: 5, y: 9}
+        - {x: -3, y: 9}
+        - {x: -7, y: 8}
+        - {x: -7, y: -4}
+        - {x: -2, y: -9}
+        - {x: 3, y: -9}
+      physicsShape:
+      - - {x: 8, y: -3}
+        - {x: 8, y: 2}
+        - {x: 5, y: 9}
+        - {x: -3, y: 9}
+        - {x: -7, y: 8}
+        - {x: -7, y: -4}
+        - {x: -2, y: -9}
+        - {x: 3, y: -9}
       tessellationDetail: 0
       bones: []
       spriteID: b014665f0d442714f94f6298db4d4eeb
@@ -198,11 +214,27 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 8, y: -3}
+        - {x: 8, y: 2}
+        - {x: 5, y: 9}
+        - {x: -3, y: 9}
+        - {x: -7, y: 8}
+        - {x: -7, y: -4}
+        - {x: -2, y: -9}
+        - {x: 3, y: -9}
+      physicsShape:
+      - - {x: 8, y: -3}
+        - {x: 8, y: 2}
+        - {x: 5, y: 9}
+        - {x: -3, y: 9}
+        - {x: -7, y: 8}
+        - {x: -7, y: -4}
+        - {x: -2, y: -9}
+        - {x: 3, y: -9}
       tessellationDetail: 0
       bones: []
       spriteID: 3114ce842c387444fa76380c1f9ff556
@@ -220,11 +252,27 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 8, y: -3}
+        - {x: 8, y: 2}
+        - {x: 5, y: 9}
+        - {x: -3, y: 9}
+        - {x: -7, y: 8}
+        - {x: -7, y: -4}
+        - {x: -2, y: -9}
+        - {x: 3, y: -9}
+      physicsShape:
+      - - {x: 8, y: -3}
+        - {x: 8, y: 2}
+        - {x: 5, y: 9}
+        - {x: -3, y: 9}
+        - {x: -7, y: 8}
+        - {x: -7, y: -4}
+        - {x: -2, y: -9}
+        - {x: 3, y: -9}
       tessellationDetail: 0
       bones: []
       spriteID: 8546c3598613c30498ac9e085370e2ff
@@ -242,7 +290,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -264,10 +312,18 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
+      outline:
+      - - {x: 8, y: -3}
+        - {x: 8, y: 2}
+        - {x: 5, y: 9}
+        - {x: -3, y: 9}
+        - {x: -7, y: 8}
+        - {x: -7, y: -4}
+        - {x: -2, y: -9}
+        - {x: 3, y: -9}
       physicsShape: []
       tessellationDetail: 0
       bones: []
@@ -286,7 +342,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -308,7 +364,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -330,7 +386,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -352,7 +408,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -374,7 +430,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -396,7 +452,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -418,7 +474,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -440,7 +496,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -462,7 +518,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -484,10 +540,18 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
+      outline:
+      - - {x: 9, y: -6}
+        - {x: 9, y: 3}
+        - {x: 6, y: 8}
+        - {x: -5, y: 8}
+        - {x: -8, y: 4}
+        - {x: -8, y: -2}
+        - {x: -5, y: -8}
+        - {x: 4, y: -8}
       physicsShape: []
       tessellationDetail: 0
       bones: []
@@ -506,7 +570,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -528,7 +592,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
